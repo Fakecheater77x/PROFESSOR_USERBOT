@@ -3,7 +3,7 @@
     "logo": "https://files.catbox.moe/ek0bjx.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_USERBOT",
+    "repository": "https://gitHub.com/Fakecheater77x/PROFESSOR_USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -18,12 +18,12 @@
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "6051510669"
+            "value": "6771807021"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "6051510669"
+            "value": "6771807021"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
